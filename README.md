@@ -78,3 +78,12 @@ flask run
 ```
 
 **5.** Go to ` http://127.0.0.1:5000/` and enjoy the application.
+
+## ❤️&nbsp; Project Admin
+<table>
+<tr>
+    <td align="center" thead="admin"><a href="https://github.com/arpit456jain"><img src="https://avatars.githubusercontent.com/arpit456jain" width="100px;" alt="admin"/><br /><sub><b>Arpit Jain</b></sub></a></td></tr>
+  </tr>
+  </table>
+<br>
+show some ❤️&nbsp; by giving the star to this repo
