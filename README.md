@@ -44,33 +44,13 @@ git pull origin main
 
 #### Step 4: Setting up Project
 ##### For Flask:
-**1. Create a Virtual Environment**
 
-- *On macOS and Linux:*
-  ```bash
-    python3 -m venv env
-  ```
-- *Windows*
-  ```bash
-    py -m venv env
-  ````
-
-**2. Activate the Virtual Environment**
-  - *On Windows*
-    ```bash
-    .\env\Scripts\activate
-    ```
-  - *On macOS and Linux:*
-    ```bash
-    source env/bin/activate
-    ```
-
-**3. Install dependencies using**
+**1. Install dependencies using**
 ```bash
 pip install -r requirements.txt
 ```
 
-**4. Run server using**
+**2. Run server using**
 
 ```bash
 flask run
