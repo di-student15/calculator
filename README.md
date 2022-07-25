@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CalculatorApp-In-Flask
 
 ### 💻 Tech Stack
@@ -112,3 +113,6 @@ GitHub will alert you that you can merge the two branches because there is no co
 
 <br>
 show some ❤️&nbsp; by giving the star to this repo
+=======
+# calculator
+>>>>>>> 067681c252d400016f4de8de00c0c358b8bafa2d
